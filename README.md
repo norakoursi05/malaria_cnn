@@ -13,6 +13,6 @@ Un tel modèle pourrait considérablement accélérer le processus de diagnostic
 ## Structure du Projet
 Ce projet se déroulera en plusieurs étapes clés :
 
-Manipulation de la Donnée : Préparation et augmentation des données pour l'entraînement des modèles.
-Entraînement de Modèles : Implémentation et entraînement de trois modèles CNN différents.
-Évaluation des Modèles : Test et évaluation des performances des modèles sur un jeu de données de test.
+1.Manipulation de la Donnée : Préparation et augmentation des données pour l'entraînement des modèles.
+2.Entraînement de Modèles : Implémentation et entraînement de trois modèles CNN différents.
+3.Évaluation des Modèles : Test et évaluation des performances des modèles sur un jeu de données de test.
