@@ -8,8 +8,8 @@
         <li font-size: 18px;">Membre 2: BEN MOUH Kawtar</li>
     </ul>
 </div>
-## Introduction
-### Contexte et Importance du Projet
+<h2>Introduction</h2> 
+<h3>Contexte et Importance du Projet</h3> 
 Le paludisme est une maladie infectieuse grave, transmise par les moustiques, qui touche des millions de personnes chaque année, principalement dans les régions tropicales et subtropicales. 
 La détection précoce et précise de cette maladie est cruciale pour le traitement efficace et la réduction de la mortalité. Cependant, le diagnostic repose souvent sur l'examen microscopique des frottis sanguins, une procédure qui peut être longue et nécessitant une expertise médicale spécialisée.
 
