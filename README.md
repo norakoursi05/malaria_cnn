@@ -1,4 +1,13 @@
-# Projet de classification d’images d’hématies
+<div style="text-align: center;">
+    <h1>Projet de classification d’images d’hématies</h1>
+</div>
+<div style="text-align: center;">
+    <h2>Membres du Groupe</h2>
+    <ul style="list-style-type: none; padding: 0;">
+        <li font-size: 18px;">Membre 1: KOURSI Nora</li>
+        <li font-size: 18px;">Membre 2: BEN MOUH Kawtar</li>
+    </ul>
+</div>
 ## Introduction
 ### Contexte et Importance du Projet
 Le paludisme est une maladie infectieuse grave, transmise par les moustiques, qui touche des millions de personnes chaque année, principalement dans les régions tropicales et subtropicales. 
